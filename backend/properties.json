@@ -1,0 +1,9 @@
+{
+    "mandarine": {
+        "server": {
+            "port": 8080
+        }
+    },
+    "DB_NAME": "<db-name>",
+    "DB_HOST_URL": "<db-host-url>"
+}

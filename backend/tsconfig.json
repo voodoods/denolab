@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": false /* Some deno libraries won't compile with strict: "true" :( */,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "strictFunctionTypes": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  }
+}
